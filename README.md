@@ -27,7 +27,7 @@ Kelompok 1
   
 ![Halaman Barang Keluar](https://github.com/AmalliaBerlianyPutri/PBP_Gudang/assets/124545014/8b5cb49f-afa7-43d1-bc85-f3d387b7000a)
 
-* Data User:
+* User:
   
 ![User apk](https://github.com/AmalliaBerlianyPutri/PBP_Gudang/assets/124545014/44ed75bc-5cd8-477c-9f7b-8104378bab95)
 
