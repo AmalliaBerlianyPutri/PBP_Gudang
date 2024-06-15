@@ -1,6 +1,6 @@
 # UJIAN AKHIR SEMESTER MATA KULIAH SISTEM INFORMASI MANAJEMEN
 Kelompok 1
-1. Muhammad Faaizul Hakim (22091397075)
+1. M. Faaizul Hakim (22091397075)
 2. Maulana Arridho (22091397088)
 3. M. Adhiel Vinco Auky (22091397089)
 4. Amallia Berliany Putri (22091397102)
